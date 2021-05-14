@@ -81,7 +81,7 @@ async def help_message_f(client, message):
                 ],
                 [
                     InlineKeyboardButton('Developer', url='https://t.me/supunpriyashanka'), # Bloody Thief, Don't Become a Developer by Stealing other's Codes & Hard Works!
-                    InlineKeyboardButton('Source Code', url='https://github.com/supunpriyashanka/VideoCompress') # Must Give us Credits!
+                    InlineKeyboardButton('Source Code', url='https://github.com/supunpriyashanka/Video-Compress-Bot') # Must Give us Credits!
                 ]
             ]
         ),
