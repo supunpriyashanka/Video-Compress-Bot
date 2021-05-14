@@ -64,9 +64,7 @@ exec - EXEC 🙄
 <p align="left">
 <a href="https://t.me/NET_HACKER_BOTs_chat"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
 </p>
-<p align="left">
-<a href="https://t.me/Network_hacker_bots"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
-</p>
+
 
 ### Credits:
 * [Bhashitha](https://github.com/ImBhashith)
