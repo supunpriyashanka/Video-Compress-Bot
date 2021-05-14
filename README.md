@@ -67,4 +67,5 @@ exec - EXEC 🙄
 
 
 ### Credits:
-* [Bhashitha](http://Github.com/ImBhashitha)
+* [AbirHasan2005](https://github.com/AbirHasan2005)
+* [NET.HACKER BOTs](https://t.me/Network_hacker_bots)
