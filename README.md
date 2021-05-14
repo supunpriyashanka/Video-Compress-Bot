@@ -67,4 +67,4 @@ exec - EXEC 🙄
 
 
 ### Credits:
-* [Bhashitha](https://github.com/ImBhashith)
+* [Bhashitha](http://Github.com/ImBhashitha)
