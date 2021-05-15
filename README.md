@@ -15,7 +15,7 @@ A Telegram Video Compressor Bot By [@Supun_priyashanka](https://t.me/Supun_priya
 <a href="https://t.me/Network_hacker_bots"><img src="https://img.shields.io/badge/Demo-Bot%20Logs%20Channel-blue.svg?logo=telegram"></a>
 
 ## Easy Deploy:
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/supunpriyashanka/Video-Compress-Bot.git)
 
 ### Support Group:
 <a href="https://t.me/NET_HACKER_BOTs_chat"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
